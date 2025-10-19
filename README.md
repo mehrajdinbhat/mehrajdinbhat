@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="340" src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-developers-are-coding-programs-on-computers-programmers-are-analyzing-data-png-image_11902650.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saliq03&label=Profile%20views&color=0e75b6&style=flat" alt="saliq03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrajdinbhat&label=Profile%20views&color=0e75b6&style=flat" alt="saliq03" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
