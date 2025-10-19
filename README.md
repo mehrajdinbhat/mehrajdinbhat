@@ -7,13 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Firebase and REST API**
-- 💬 Ask me about **Flutter, Android and Java**
-- 📫 How to reach me **javidsaliq@gmail.com**
+-🌱 **Currently learning and building projects with the MERN Stack and related technologies to strengthen my full-stack development skills.**
+
+-💬 **Feel free to ask me about MERN Stack or Java — I love discussing code, logic, and creative solutions.**
+
+-📫 **You can reach me at mehrajdinbhat8082@gmail.com**
+.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saliq-javeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saliq javid" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/mehraj-din-bhat-720692293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saliq javid" height="40" width="50" /></a>
 <a href="https://www.facebook.com/dar.saliq.773?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dar saliq" height="40" width="50" /></a>
 <a href="https://www.instagram.com/dar_saliq03?igsh=bmwxcjNncjRwOWF5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dar_saliq03" height="40" width="50" /></a>
 <a href="https://twitter.com/drslq2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drslq2" height="40" width="50" /></a>
