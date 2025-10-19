@@ -20,7 +20,7 @@
 <a href="https://www.facebook.com/mehraj.raja.3367"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dar saliq" height="40" width="50" /></a>
 <a href="https://instagram.com/mehrajdin6607" target="blank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dar_saliq03" height="40" width="50" /></a>
 <a href=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drslq2" height="40" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/javidshd85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="javidshd85" height="40" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="javidshd85" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
