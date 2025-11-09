@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehraj Din Bhat</h1>
 <h3 align="center">A dedicated MERN stack developer and aspiring software engineer from MANUU, Hyderabad, focused on building impactful digital solutions that solve real-world problems.</h3>
-z
+
 <img align="right" alt="Coding" width="340" src="https://www.byteuprise.com/_next/image?url=%2Fsoft.webp&w=640&q=75">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrajdinbhat&label=Profile%20views&color=0e75b6&style=flat" alt="saliq03" /> </p>
